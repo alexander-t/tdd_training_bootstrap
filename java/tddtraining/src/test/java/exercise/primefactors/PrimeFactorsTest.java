@@ -1,4 +1,4 @@
-package primefactors;
+package exercise.primefactors;
 
 import org.junit.Test;
 
